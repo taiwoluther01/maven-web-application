@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-		    <url>http://172.31.21.186:8081/repository/drive/</url>
+		    <url>http://18.144.60.236:8081/repository/drive/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-		    <url>http://172.31.21.186:8081/repository/drive-snapshot/</url>
+		    <url>http://18.144.60.236:8081/repository/drive-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
